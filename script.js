@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // 총 애미 초기값 설정
-    let totalAmmi = 1000000;
+    let totalAmmi = 100000;
 
     // 총 애미 업데이트 함수
     function updateTotalAmmiDisplay() {
